@@ -15,7 +15,7 @@ const Hero = () => {
         <div className="flex flex-col md:flex-row items-center justify-between mx-10">
           {/* Text Section */}
           <div className="text-center md:text-left">
-            <h1 className="text-4xl sm:text-6xl md:text-8xl text-white font-bold mt-12 inline-block">Hello I'm</h1>
+            <h1 className="text-4xl sm:text-6xl md:text-8xl text-white font-bold mt-12 inline-block">Hello I&apos;m</h1>
             <h1 className="text-4xl sm:text-6xl md:text-8xl text-yellow-200 font-bold mt-5">Sheharyar</h1>
             <h1 className="text-4xl sm:text-6xl md:text-8xl text-yellow-200 font-bold mt-5">Khan</h1>
           </div>
